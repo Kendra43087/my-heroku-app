@@ -4,7 +4,8 @@
   "description": "Learning heroku",
   "main": "hey.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node hey.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Kendra43087/my-heroku-app/issues"
   },
-  "homepage": "https://github.com/Kendra43087/my-heroku-app#readme"
+  "homepage": "https://github.com/Kendra43087/my-heroku-app#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
