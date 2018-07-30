@@ -1,0 +1,19 @@
+{
+  "name": "my-heroku-app",
+  "version": "1.0.0",
+  "description": "Learning heroku",
+  "main": "hey.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kendra43087/my-heroku-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kendra43087/my-heroku-app/issues"
+  },
+  "homepage": "https://github.com/Kendra43087/my-heroku-app#readme"
+}
